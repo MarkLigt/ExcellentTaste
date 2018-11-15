@@ -3,7 +3,7 @@
 <head><D<<D<D<D<D<D<D<D
         	<a href="homepage.php">
         		<p>Flowerpower</p>
-            </a>
+            </a>testtt
         
        <!-- <p>Categorieën ↓</p> !-->
     </div>
